@@ -1,2 +1,8 @@
 # C-String-Functions
-Process String with C-String functions (strlen, strchr, strcmp)
+
+Goal
+- Process String with C-String functions (strlen, strchr, strcmp)
+
+
+Example Output
+
