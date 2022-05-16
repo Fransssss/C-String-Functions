@@ -1,0 +1,25 @@
+# ninja log v5
+1	1891	6743940160671023	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1899	2954	6743940171364390	C_String_Functions.exe	c4e353e038b4aac0
+12	1548	6743940713512002	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1551	1848	6743940716368233	C_String_Functions.exe	c4e353e038b4aac0
+12	1538	6743941500050567	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1539	1790	6743941502463717	C_String_Functions.exe	c4e353e038b4aac0
+11	1108	6743941761564939	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1110	1395	6743941764396355	C_String_Functions.exe	c4e353e038b4aac0
+9	1062	6743942223269114	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1064	1333	6743942225980445	C_String_Functions.exe	c4e353e038b4aac0
+10	1069	6743942873315952	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1071	1322	6743942875697791	C_String_Functions.exe	c4e353e038b4aac0
+13	1967	6743943329897851	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1969	2403	6743943333588048	C_String_Functions.exe	c4e353e038b4aac0
+9	933	6743944391964270	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+935	1149	6743944394001342	C_String_Functions.exe	c4e353e038b4aac0
+9	1048	6743945916829511	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1049	1248	6743945918671786	C_String_Functions.exe	c4e353e038b4aac0
+10	1493	6743946314104775	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1494	1730	6743946316352420	C_String_Functions.exe	c4e353e038b4aac0
+11	1851	6743946630093459	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+1852	2111	6743946632708270	C_String_Functions.exe	c4e353e038b4aac0
+9	953	6743946943873700	CMakeFiles/C_String_Functions.dir/main.cpp.obj	ff6c5c12cb8d305c
+16	897	6743946986157707	C_String_Functions.exe	c4e353e038b4aac0
